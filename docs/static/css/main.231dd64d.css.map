@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.231dd64d.css","mappings":"AAEA,KAEE,wBAAyB,CACzB,aAAe,CACf,qDAA4D,CAH5D,QAIF","sources":["index.css"],"sourcesContent":["\n\nbody {\n  margin: 0;\n  background-color: #ebebeb;\n  color: #1e1e1e ;\n  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n}\n"],"names":[],"sourceRoot":""}
